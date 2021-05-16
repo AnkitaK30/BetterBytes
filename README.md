@@ -1,5 +1,5 @@
 # BetterBytes
- ![caKE](https://user-images.githubusercontent.com/77518767/118384651-c2745f00-b5d5-11eb-867f-9375fbfe3ca7.png)
+ <caKE src="https://user-images.githubusercontent.com/77518767/118384651-c2745f00-b5d5-11eb-867f-9375fbfe3ca7.png" width="100" height="100">
 
 ## Project Description
 Welcome to the Better Bytes Healthy Alternative program!
@@ -14,7 +14,7 @@ Before you open the program, it is recommended that you have a .txt file ready f
 ### Opening Screen
 On this screen, you will see two buttons, a “New Recipe” button, and a “Recipe Book” button. If this is the first opening of the program, there will not be any recipes in the recipe book, so it is recommended that you press the “New Recipe” button to add a recipe to the program’s temporary recipe book. To learn about the new recipe screen, see New Recipe Screen. If you have already added a recipe to the recipe book, then you have been brought back to this screen, giving you the option to either add another recipe once again or view the program’s recipe book that holds all the recipes you have added by pressing the “Recipe Book” button. To learn about the recipe book screen, see Recipe Book Screen.
 
- ![open](https://user-images.githubusercontent.com/77518767/118384704-521a0d80-b5d6-11eb-90b8-b37a8b251c82.png)
+ <open src="https://user-images.githubusercontent.com/77518767/118384704-521a0d80-b5d6-11eb-90b8-b37a8b251c82.png" width="100" height="100">
 
 ### New Recipe Screen
 On this screen, you will see a text box labeled “Recipe Name”  along with a button beside it labeled “Save Name”. You must input the name of your recipe before you can enter any ingredients or measurements. Once the name has been entered and saved, you can enter each ingredient and its measurement (> 0g) and press the “Add Ingredient” button to add the ingredient and its measurement to the list of ingredients below.
